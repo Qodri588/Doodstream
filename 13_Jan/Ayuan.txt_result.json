@@ -1,0 +1,62 @@
+{
+  "folder_creation": {
+    "result": {
+      "name": "Ayuan",
+      "fld_id": "1184816",
+      "code": "5uktw3pskp"
+    },
+    "msg": "OK",
+    "status": 200,
+    "server_time": "2023-12-24 16:20:18"
+  },
+  "upload_responses": [
+    {
+      "server_time": "2023-12-24 16:20:19",
+      "status": 200,
+      "result": {
+        "download_url": "https://ds2video.com/d/xprem5zgkpck",
+        "embed_url": "https://ds2video.com/e/xprem5zgkpck",
+        "filecode": "xprem5zgkpck",
+        "protected_download": "https://ds2video.com/d/kxfjy5zxzq5620p8kdw8jbdythv3ppgr",
+        "protected_embed": "https://ds2video.com/e/msao0qvk5g0kiara1u45j9cp3lixb69u"
+      },
+      "msg": "OK"
+    },
+    {
+      "server_time": "2023-12-24 16:20:20",
+      "result": {
+        "download_url": "https://ds2video.com/d/4o8lijukmvfp",
+        "embed_url": "https://ds2video.com/e/4o8lijukmvfp",
+        "protected_embed": "https://ds2video.com/e/19c41kvmc0pucg2lbdqu29xs2g0t2s2z",
+        "protected_download": "https://ds2video.com/d/qi213upeg1kadsobyu1ehegdnd8ryvr1",
+        "filecode": "4o8lijukmvfp"
+      },
+      "msg": "OK",
+      "status": 200
+    },
+    {
+      "msg": "OK",
+      "result": {
+        "embed_url": "https://ds2video.com/e/fmi63dffg2gq",
+        "filecode": "fmi63dffg2gq",
+        "protected_embed": "https://ds2video.com/e/0vd151e1oqldiojq4neak8nmaqxckob5",
+        "download_url": "https://ds2video.com/d/fmi63dffg2gq",
+        "protected_download": "https://ds2video.com/d/rxhf58wpai93t6r0v0zpf2giz0j5v3ee"
+      },
+      "status": 200,
+      "server_time": "2023-12-24 16:20:21"
+    },
+    {
+      "server_time": "2023-12-24 16:20:22",
+      "result": {
+        "protected_download": "https://ds2video.com/d/o4x4ysd3zkl8m9o6mf9cadmyzf0vo9qn",
+        "embed_url": "https://ds2video.com/e/y1brj428iqwg",
+        "filecode": "y1brj428iqwg",
+        "protected_embed": "https://ds2video.com/e/7gzbkgzjysxm3c0g84w4cg0sz10dagyy",
+        "download_url": "https://ds2video.com/d/y1brj428iqwg"
+      },
+      "msg": "OK",
+      "status": 200
+    }
+  ]
+}

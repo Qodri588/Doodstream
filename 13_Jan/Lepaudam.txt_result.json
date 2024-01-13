@@ -1,0 +1,62 @@
+{
+  "folder_creation": {
+    "result": {
+      "code": "f46g9mv6hv",
+      "fld_id": "1184878",
+      "name": "Lepaudam"
+    },
+    "server_time": "2023-12-24 16:30:19",
+    "status": 200,
+    "msg": "OK"
+  },
+  "upload_responses": [
+    {
+      "status": 200,
+      "server_time": "2023-12-24 16:30:19",
+      "result": {
+        "download_url": "https://ds2video.com/d/1r158ub2jzyk",
+        "filecode": "1r158ub2jzyk",
+        "embed_url": "https://ds2video.com/e/1r158ub2jzyk",
+        "protected_download": "https://ds2video.com/d/l7zqckpskpswsdq6mmyeh5r3kjdfg70a",
+        "protected_embed": "https://ds2video.com/e/dkbp838baxqmtslt3etlseu8t98ie5ak"
+      },
+      "msg": "OK"
+    },
+    {
+      "result": {
+        "protected_download": "https://ds2video.com/d/06ijd5ggk2ydriaaqjiee69vdo33or5v",
+        "download_url": "https://ds2video.com/d/nfw0wyrmtoum",
+        "embed_url": "https://ds2video.com/e/nfw0wyrmtoum",
+        "filecode": "nfw0wyrmtoum",
+        "protected_embed": "https://ds2video.com/e/034pt7w5m8bff8q7cuw3zri99vs9jzq0"
+      },
+      "server_time": "2023-12-24 16:30:20",
+      "msg": "OK",
+      "status": 200
+    },
+    {
+      "msg": "OK",
+      "server_time": "2023-12-24 16:30:20",
+      "status": 200,
+      "result": {
+        "filecode": "58dk4kwtngr1",
+        "protected_download": "https://ds2video.com/d/xfa2nihjsl2206v2ra1nuva0vmxoa28x",
+        "protected_embed": "https://ds2video.com/e/d2d75i0clm7q92oudsv932c6f2z5bwjg",
+        "embed_url": "https://ds2video.com/e/58dk4kwtngr1",
+        "download_url": "https://ds2video.com/d/58dk4kwtngr1"
+      }
+    },
+    {
+      "status": 200,
+      "server_time": "2023-12-24 16:30:21",
+      "result": {
+        "download_url": "https://ds2video.com/d/fytjokp5zjt4",
+        "protected_download": "https://ds2video.com/d/9ed5eavphqldzzmgq9b85t1c54gwapda",
+        "filecode": "fytjokp5zjt4",
+        "embed_url": "https://ds2video.com/e/fytjokp5zjt4",
+        "protected_embed": "https://ds2video.com/e/mliy2xgw12idah3kagq50mo6sg6si37c"
+      },
+      "msg": "OK"
+    }
+  ]
+}

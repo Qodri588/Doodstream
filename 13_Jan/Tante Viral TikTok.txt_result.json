@@ -1,0 +1,38 @@
+{
+  "folder_creation": {
+    "server_time": "2023-12-24 16:36:20",
+    "status": 200,
+    "msg": "OK",
+    "result": {
+      "code": "9w1bjx63a3",
+      "fld_id": "1185000",
+      "name": "Tante Viral TikTok"
+    }
+  },
+  "upload_responses": [
+    {
+      "server_time": "2023-12-24 16:36:20",
+      "status": 200,
+      "msg": "OK",
+      "result": {
+        "protected_embed": "https://ds2video.com/e/3v4i3lrr6e5dxs303suw7dwimkl0rzaf",
+        "filecode": "231i2xhlp5sw",
+        "embed_url": "https://ds2video.com/e/231i2xhlp5sw",
+        "protected_download": "https://ds2video.com/d/gf8hwx0r8bld8541cggkt0nmvwyz9j7a",
+        "download_url": "https://ds2video.com/d/231i2xhlp5sw"
+      }
+    },
+    {
+      "result": {
+        "protected_download": "https://ds2video.com/d/7biaaxa89bqotn62h6rx329j0ufz2k53",
+        "protected_embed": "https://ds2video.com/e/k0rdngbjjtmxj4enrz2erw6y2svedmrs",
+        "download_url": "https://ds2video.com/d/hr7m5wyipsi8",
+        "embed_url": "https://ds2video.com/e/hr7m5wyipsi8",
+        "filecode": "hr7m5wyipsi8"
+      },
+      "status": 200,
+      "server_time": "2023-12-24 16:36:21",
+      "msg": "OK"
+    }
+  ]
+}

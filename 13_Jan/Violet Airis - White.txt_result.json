@@ -1,0 +1,50 @@
+{
+  "folder_creation": {
+    "status": 200,
+    "server_time": "2023-12-24 16:37:26",
+    "msg": "OK",
+    "result": {
+      "code": "4v9jg6njvt",
+      "fld_id": "1185010",
+      "name": "Violet Airis - White"
+    }
+  },
+  "upload_responses": [
+    {
+      "result": {
+        "download_url": "https://ds2video.com/d/idrm739zw9sk",
+        "filecode": "idrm739zw9sk",
+        "protected_download": "https://ds2video.com/d/kruklrs725m3p5m24byk9tqq0o49k051",
+        "embed_url": "https://ds2video.com/e/idrm739zw9sk",
+        "protected_embed": "https://ds2video.com/e/7iptdxn7hn1ea34yjzsh6918f5e847s1"
+      },
+      "server_time": "2023-12-24 16:37:26",
+      "msg": "OK",
+      "status": 200
+    },
+    {
+      "result": {
+        "filecode": "xfvovdrneo6d",
+        "download_url": "https://ds2video.com/d/xfvovdrneo6d",
+        "embed_url": "https://ds2video.com/e/xfvovdrneo6d",
+        "protected_embed": "https://ds2video.com/e/5tjiuohhl42n1fg670rpmt2t6xp6yg28",
+        "protected_download": "https://ds2video.com/d/jnxrdr1n8iyg7wfminty7tenaq1we48f"
+      },
+      "msg": "OK",
+      "status": 200,
+      "server_time": "2023-12-24 16:37:27"
+    },
+    {
+      "result": {
+        "filecode": "uzzhzvttvbjq",
+        "embed_url": "https://ds2video.com/e/uzzhzvttvbjq",
+        "download_url": "https://ds2video.com/d/uzzhzvttvbjq",
+        "protected_embed": "https://ds2video.com/e/ur9qhj8d7jmdb5mi09n5tee0utkpnqgc",
+        "protected_download": "https://ds2video.com/d/vlctch5314ol2j8udaakptl5j5xe9fni"
+      },
+      "server_time": "2023-12-24 16:37:27",
+      "msg": "OK",
+      "status": 200
+    }
+  ]
+}

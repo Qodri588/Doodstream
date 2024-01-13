@@ -1,0 +1,38 @@
+{
+  "folder_creation": {
+    "result": {
+      "fld_id": "1184879",
+      "code": "al5dhnmwiv",
+      "name": "Lepaudam 2"
+    },
+    "server_time": "2023-12-24 16:30:21",
+    "status": 200,
+    "msg": "OK"
+  },
+  "upload_responses": [
+    {
+      "status": 200,
+      "msg": "OK",
+      "result": {
+        "embed_url": "https://ds2video.com/e/jsurn5ziwdfv",
+        "protected_embed": "https://ds2video.com/e/bvg6j8n58yzncnpuwxt3pt98bfs4l0hl",
+        "download_url": "https://ds2video.com/d/jsurn5ziwdfv",
+        "protected_download": "https://ds2video.com/d/0th8oa1nihp1ltyhclz6o5l1kuwz4lud",
+        "filecode": "jsurn5ziwdfv"
+      },
+      "server_time": "2023-12-24 16:30:22"
+    },
+    {
+      "msg": "OK",
+      "result": {
+        "protected_embed": "https://ds2video.com/e/q3yd80ka0fd8oglkapvtujilut9q9d1a",
+        "embed_url": "https://ds2video.com/e/bf5znmv1rll9",
+        "filecode": "bf5znmv1rll9",
+        "protected_download": "https://ds2video.com/d/otnyc0ctkkjn0a8bj85ylylrthu4ajl4",
+        "download_url": "https://ds2video.com/d/bf5znmv1rll9"
+      },
+      "server_time": "2023-12-24 16:30:22",
+      "status": 200
+    }
+  ]
+}

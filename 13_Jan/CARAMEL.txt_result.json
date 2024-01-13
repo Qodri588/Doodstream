@@ -1,0 +1,50 @@
+{
+  "folder_creation": {
+    "msg": "OK",
+    "server_time": "2023-12-26 07:55:14",
+    "status": 200,
+    "result": {
+      "code": "sglz89vvav",
+      "fld_id": "1187030",
+      "name": "CARAMEL"
+    }
+  },
+  "upload_responses": [
+    {
+      "msg": "OK",
+      "status": 200,
+      "result": {
+        "embed_url": "https://ds2video.com/e/yxdlk1dqlw38",
+        "download_url": "https://ds2video.com/d/yxdlk1dqlw38",
+        "protected_embed": "https://ds2video.com/e/y6gfqkzldi9movyowzmx41syv21nmnpg",
+        "filecode": "yxdlk1dqlw38",
+        "protected_download": "https://ds2video.com/d/gwriqstuj6rvgn9kj4ni4k0112sysivp"
+      },
+      "server_time": "2023-12-26 07:55:15"
+    },
+    {
+      "msg": "OK",
+      "status": 200,
+      "result": {
+        "protected_download": "https://ds2video.com/d/opk4qq5l8nyxsj7mvfulej3wcefsnf2g",
+        "filecode": "cr2wcmct8v9t",
+        "embed_url": "https://ds2video.com/e/cr2wcmct8v9t",
+        "protected_embed": "https://ds2video.com/e/okoipt99ri65c9qcirmivqofiew11e0m",
+        "download_url": "https://ds2video.com/d/cr2wcmct8v9t"
+      },
+      "server_time": "2023-12-26 07:55:15"
+    },
+    {
+      "result": {
+        "filecode": "ifyyt3saltqr",
+        "protected_download": "https://ds2video.com/d/8mxc1xi2zj9t23mkc49mxrf4sud7e30b",
+        "protected_embed": "https://ds2video.com/e/jp9dlrqrjiomv5yh6xj3tv7neb1ggdjy",
+        "download_url": "https://ds2video.com/d/ifyyt3saltqr",
+        "embed_url": "https://ds2video.com/e/ifyyt3saltqr"
+      },
+      "status": 200,
+      "msg": "OK",
+      "server_time": "2023-12-26 07:55:16"
+    }
+  ]
+}

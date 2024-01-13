@@ -1,0 +1,57 @@
+{
+  "folder_creation": {
+    "status": 400,
+    "msg": "Folder name already exists",
+    "server_time": "2023-12-24 16:15:49"
+  },
+  "upload_responses": [
+    {
+      "msg": "OK",
+      "result": {
+        "protected_embed": "https://ds2video.com/e/c6gg9cu2gf8bizt4zwl6habvt5iex4kh",
+        "filecode": "tpt84t4v815s",
+        "download_url": "https://ds2video.com/d/tpt84t4v815s",
+        "protected_download": "https://ds2video.com/d/8hpn4el6x0k2anphganunyqlnhs9mv36",
+        "embed_url": "https://ds2video.com/e/tpt84t4v815s"
+      },
+      "server_time": "2023-12-24 16:15:50",
+      "status": 200
+    },
+    {
+      "msg": "OK",
+      "result": {
+        "filecode": "3v7g6aw5b5ae",
+        "embed_url": "https://ds2video.com/e/3v7g6aw5b5ae",
+        "protected_embed": "https://ds2video.com/e/mh8e4i19mgml5sa5xgmbc63xh4obob3u",
+        "download_url": "https://ds2video.com/d/3v7g6aw5b5ae",
+        "protected_download": "https://ds2video.com/d/g1tm2an34mlb2d7ztd2b0h3d9d26ohpk"
+      },
+      "server_time": "2023-12-24 16:15:51",
+      "status": 200
+    },
+    {
+      "status": 200,
+      "server_time": "2023-12-24 16:15:52",
+      "result": {
+        "download_url": "https://ds2video.com/d/tewverbsh06o",
+        "protected_download": "https://ds2video.com/d/cq3mnm8c6z19l3p8ej5p74d5hkrbwqpi",
+        "protected_embed": "https://ds2video.com/e/2z0x0go9jvv8ftsn8e6fwp9ox6tvoiaz",
+        "filecode": "tewverbsh06o",
+        "embed_url": "https://ds2video.com/e/tewverbsh06o"
+      },
+      "msg": "OK"
+    },
+    {
+      "result": {
+        "download_url": "https://ds2video.com/d/wj8pfew69ixy",
+        "protected_download": "https://ds2video.com/d/0tk9r6qdsyc64bsov9z7q2izylbxgkvs",
+        "filecode": "wj8pfew69ixy",
+        "embed_url": "https://ds2video.com/e/wj8pfew69ixy",
+        "protected_embed": "https://ds2video.com/e/cub7iwm2eyigb0cv6hapy8o9v1gsne8j"
+      },
+      "server_time": "2023-12-24 16:15:52",
+      "msg": "OK",
+      "status": 200
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "folder_creation": {
+    "result": {
+      "fld_id": "1187008",
+      "code": "3y2330ddnp",
+      "name": "Annisa"
+    },
+    "server_time": "2023-12-26 07:48:30",
+    "msg": "OK",
+    "status": 200
+  },
+  "upload_responses": [
+    {
+      "server_time": "2023-12-26 07:48:31",
+      "result": {
+        "embed_url": "https://ds2video.com/e/bcspndkybsuh",
+        "download_url": "https://ds2video.com/d/bcspndkybsuh",
+        "filecode": "bcspndkybsuh",
+        "protected_embed": "https://ds2video.com/e/zg5urfabsg7z252wrveskdzw3sh3pbg4",
+        "protected_download": "https://ds2video.com/d/opj1ubt14c0w6yjbzbf65d3xhxwbwk5a"
+      },
+      "msg": "OK",
+      "status": 200
+    },
+    {
+      "status": 200,
+      "server_time": "2023-12-26 07:48:31",
+      "msg": "OK",
+      "result": {
+        "protected_embed": "https://ds2video.com/e/mfy6gy82f8ws310jnqg6whykgeknuxm1",
+        "download_url": "https://ds2video.com/d/pg44jtu87vlx",
+        "embed_url": "https://ds2video.com/e/pg44jtu87vlx",
+        "protected_download": "https://ds2video.com/d/lxno3ydm6x2duhmc7hy4tqa6f0f164vm",
+        "filecode": "pg44jtu87vlx"
+      }
+    }
+  ]
+}

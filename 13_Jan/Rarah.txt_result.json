@@ -1,0 +1,50 @@
+{
+  "folder_creation": {
+    "status": 200,
+    "server_time": "2023-12-24 16:34:58",
+    "msg": "OK",
+    "result": {
+      "fld_id": "1184992",
+      "code": "07ige7iwq1",
+      "name": "Rarah"
+    }
+  },
+  "upload_responses": [
+    {
+      "status": 200,
+      "msg": "OK",
+      "server_time": "2023-12-24 16:34:58",
+      "result": {
+        "protected_download": "https://ds2video.com/d/k3g5gx22nbp72bjiknupavra3qu07a2q",
+        "filecode": "pgsjuiyyqicq",
+        "download_url": "https://ds2video.com/d/pgsjuiyyqicq",
+        "embed_url": "https://ds2video.com/e/pgsjuiyyqicq",
+        "protected_embed": "https://ds2video.com/e/l7dddczck46lzn9wxiynuz4bmee8ltob"
+      }
+    },
+    {
+      "msg": "OK",
+      "result": {
+        "download_url": "https://ds2video.com/d/l1snixail27f",
+        "protected_download": "https://ds2video.com/d/jrmopv089imh3s8alx2aeolhwkid6btk",
+        "protected_embed": "https://ds2video.com/e/8sf2qxcgoneylgfk53tev7v98lz5w6s2",
+        "embed_url": "https://ds2video.com/e/l1snixail27f",
+        "filecode": "l1snixail27f"
+      },
+      "server_time": "2023-12-24 16:34:59",
+      "status": 200
+    },
+    {
+      "result": {
+        "filecode": "npt4mtl0kbi0",
+        "embed_url": "https://ds2video.com/e/npt4mtl0kbi0",
+        "protected_download": "https://ds2video.com/d/h6x1u42tg9xep3nq2u38149n837hay1z",
+        "download_url": "https://ds2video.com/d/npt4mtl0kbi0",
+        "protected_embed": "https://ds2video.com/e/aiflxw8e0x46p2t654032ah6bl1u8np4"
+      },
+      "msg": "OK",
+      "server_time": "2023-12-24 16:34:59",
+      "status": 200
+    }
+  ]
+}

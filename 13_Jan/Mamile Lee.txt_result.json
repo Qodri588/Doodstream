@@ -1,0 +1,62 @@
+{
+  "folder_creation": {
+    "server_time": "2023-12-24 16:30:17",
+    "status": 200,
+    "msg": "OK",
+    "result": {
+      "fld_id": "1184877",
+      "code": "2hdizt19sl",
+      "name": "Mamile Lee"
+    }
+  },
+  "upload_responses": [
+    {
+      "result": {
+        "embed_url": "https://ds2video.com/e/lv5f7t7o47gi",
+        "protected_embed": "https://ds2video.com/e/21k09dlfopgqu3p94i7ebsx18kqk2pfm",
+        "download_url": "https://ds2video.com/d/lv5f7t7o47gi",
+        "filecode": "lv5f7t7o47gi",
+        "protected_download": "https://ds2video.com/d/jypw0dvz3gxv0rzxhxnwnkqgyl1676yh"
+      },
+      "server_time": "2023-12-24 16:30:17",
+      "msg": "OK",
+      "status": 200
+    },
+    {
+      "msg": "OK",
+      "status": 200,
+      "server_time": "2023-12-24 16:30:18",
+      "result": {
+        "filecode": "yc1hnxjt54t0",
+        "embed_url": "https://ds2video.com/e/yc1hnxjt54t0",
+        "download_url": "https://ds2video.com/d/yc1hnxjt54t0",
+        "protected_embed": "https://ds2video.com/e/g1ieclku72wajvnfkonf7uap89dh2xwy",
+        "protected_download": "https://ds2video.com/d/1lzw0x1zl91w2annwjwogkv5o5cojdol"
+      }
+    },
+    {
+      "msg": "OK",
+      "status": 200,
+      "result": {
+        "filecode": "97b3ed0y7vcn",
+        "protected_download": "https://ds2video.com/d/ni7wjux03d2q98mn5r7zfesz9c5c4x3f",
+        "download_url": "https://ds2video.com/d/97b3ed0y7vcn",
+        "protected_embed": "https://ds2video.com/e/w7dwo0nddcfkgy1y0g24e6bgyyspkkic",
+        "embed_url": "https://ds2video.com/e/97b3ed0y7vcn"
+      },
+      "server_time": "2023-12-24 16:30:18"
+    },
+    {
+      "status": 200,
+      "result": {
+        "filecode": "g6fy29h1u2rs",
+        "protected_embed": "https://ds2video.com/e/f0jlbd6t0uicio0czl5mereu894vfvsp",
+        "protected_download": "https://ds2video.com/d/p7xyyxpqvlx7dro6qdtijeu96p62zfoh",
+        "download_url": "https://ds2video.com/d/g6fy29h1u2rs",
+        "embed_url": "https://ds2video.com/e/g6fy29h1u2rs"
+      },
+      "server_time": "2023-12-24 16:30:18",
+      "msg": "OK"
+    }
+  ]
+}

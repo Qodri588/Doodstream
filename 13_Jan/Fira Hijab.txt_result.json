@@ -1,0 +1,86 @@
+{
+  "folder_creation": {
+    "msg": "OK",
+    "status": 200,
+    "result": {
+      "name": "Fira Hijab",
+      "fld_id": "1187083",
+      "code": "ynf5qypzb2"
+    },
+    "server_time": "2023-12-26 08:18:17"
+  },
+  "upload_responses": [
+    {
+      "result": {
+        "embed_url": "https://ds2video.com/e/68rr69h8mk7w",
+        "filecode": "68rr69h8mk7w",
+        "download_url": "https://ds2video.com/d/68rr69h8mk7w",
+        "protected_download": "https://ds2video.com/d/sbqv1nquiw1uja4hnza0iy8xjfzscmv0",
+        "protected_embed": "https://ds2video.com/e/q37tlxuusg617lqu9x8nvfzmtyxnf621"
+      },
+      "msg": "OK",
+      "status": 200,
+      "server_time": "2023-12-26 08:18:18"
+    },
+    {
+      "msg": "OK",
+      "server_time": "2023-12-26 08:18:18",
+      "status": 200,
+      "result": {
+        "embed_url": "https://ds2video.com/e/28g34c5ah4nm",
+        "download_url": "https://ds2video.com/d/28g34c5ah4nm",
+        "protected_download": "https://ds2video.com/d/jv3b3es9pgagxx27u0y98935cd48qffl",
+        "filecode": "28g34c5ah4nm",
+        "protected_embed": "https://ds2video.com/e/qr6ggmysmat0rq2p52ve1nh5giox4y9t"
+      }
+    },
+    {
+      "status": 200,
+      "result": {
+        "embed_url": "https://ds2video.com/e/cuvrn3kl4hvw",
+        "filecode": "cuvrn3kl4hvw",
+        "download_url": "https://ds2video.com/d/cuvrn3kl4hvw",
+        "protected_download": "https://ds2video.com/d/1xnydyxzxu1i7kwho420ask5x171lkvs",
+        "protected_embed": "https://ds2video.com/e/v4wr8azbezo1o3uef5le150k2sjfedkn"
+      },
+      "msg": "OK",
+      "server_time": "2023-12-26 08:18:19"
+    },
+    {
+      "result": {
+        "filecode": "zx78c0zl2eo6",
+        "protected_download": "https://ds2video.com/d/smmqru3xyl0bwg2dcvoxuujrgguhsd3v",
+        "embed_url": "https://ds2video.com/e/zx78c0zl2eo6",
+        "protected_embed": "https://ds2video.com/e/j68qyqicnswzfg62yko347cck2g6tpp4",
+        "download_url": "https://ds2video.com/d/zx78c0zl2eo6"
+      },
+      "msg": "OK",
+      "server_time": "2023-12-26 08:18:20",
+      "status": 200
+    },
+    {
+      "msg": "OK",
+      "result": {
+        "protected_download": "https://ds2video.com/d/s3tqxl4js9p5js2zft22zj3o1q6hyy2v",
+        "protected_embed": "https://ds2video.com/e/bf500a20222v2q9zxj3bbiy1mal6kjqf",
+        "filecode": "wiogeiudh0zl",
+        "embed_url": "https://ds2video.com/e/wiogeiudh0zl",
+        "download_url": "https://ds2video.com/d/wiogeiudh0zl"
+      },
+      "server_time": "2023-12-26 08:18:21",
+      "status": 200
+    },
+    {
+      "server_time": "2023-12-26 08:18:22",
+      "status": 200,
+      "msg": "OK",
+      "result": {
+        "protected_download": "https://ds2video.com/d/sxb0s8x0xi5zh872wmo6w7gojnezf55l",
+        "protected_embed": "https://ds2video.com/e/lbo57p368psd74d62so726vro80ms1xn",
+        "filecode": "r98j21jjze10",
+        "download_url": "https://ds2video.com/d/r98j21jjze10",
+        "embed_url": "https://ds2video.com/e/r98j21jjze10"
+      }
+    }
+  ]
+}

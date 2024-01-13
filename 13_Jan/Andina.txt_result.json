@@ -1,0 +1,38 @@
+{
+  "folder_creation": {
+    "status": 200,
+    "server_time": "2023-12-24 16:17:19",
+    "msg": "OK",
+    "result": {
+      "name": "Andina",
+      "code": "h6lmryqnwi",
+      "fld_id": "1184801"
+    }
+  },
+  "upload_responses": [
+    {
+      "msg": "OK",
+      "status": 200,
+      "result": {
+        "download_url": "https://ds2video.com/d/rz8rlhswfdd1",
+        "embed_url": "https://ds2video.com/e/rz8rlhswfdd1",
+        "protected_embed": "https://ds2video.com/e/57mhxr7le6iz6sjia4t7690oggbkx8p4",
+        "protected_download": "https://ds2video.com/d/5cqp97vnxct2fklaxncf7zim07c4tz9z",
+        "filecode": "rz8rlhswfdd1"
+      },
+      "server_time": "2023-12-24 16:17:20"
+    },
+    {
+      "msg": "OK",
+      "result": {
+        "filecode": "vp0ntlznoq1a",
+        "protected_embed": "https://ds2video.com/e/e74x018tpwqaqza58zwqjeiqar3fhz6j",
+        "protected_download": "https://ds2video.com/d/ajmb3s50651qf1j7hqeddaht2k8b7ojl",
+        "download_url": "https://ds2video.com/d/vp0ntlznoq1a",
+        "embed_url": "https://ds2video.com/e/vp0ntlznoq1a"
+      },
+      "status": 200,
+      "server_time": "2023-12-24 16:17:20"
+    }
+  ]
+}

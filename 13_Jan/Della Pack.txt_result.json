@@ -1,0 +1,62 @@
+{
+  "folder_creation": {
+    "msg": "OK",
+    "status": 200,
+    "result": {
+      "name": "Della Pack",
+      "code": "rslhwu7s5s",
+      "fld_id": "1184843"
+    },
+    "server_time": "2023-12-24 16:24:55"
+  },
+  "upload_responses": [
+    {
+      "status": 200,
+      "server_time": "2023-12-24 16:24:56",
+      "result": {
+        "embed_url": "https://ds2video.com/e/p9czfgq500ul",
+        "protected_download": "https://ds2video.com/d/7yw8xnwifyd47m0u4baawote2yqwqfr6",
+        "filecode": "p9czfgq500ul",
+        "protected_embed": "https://ds2video.com/e/sl3iz1fyl7s3axm7a4u4nkf6h5kvcgjh",
+        "download_url": "https://ds2video.com/d/p9czfgq500ul"
+      },
+      "msg": "OK"
+    },
+    {
+      "msg": "OK",
+      "server_time": "2023-12-24 16:24:57",
+      "status": 200,
+      "result": {
+        "protected_embed": "https://ds2video.com/e/ncr9xnwcr5todr11zm1f2z0e0zbj6l43",
+        "download_url": "https://ds2video.com/d/x6ptexzcxht6",
+        "protected_download": "https://ds2video.com/d/516mdvrvu210d7h2qppmztryez5kegrb",
+        "embed_url": "https://ds2video.com/e/x6ptexzcxht6",
+        "filecode": "x6ptexzcxht6"
+      }
+    },
+    {
+      "server_time": "2023-12-24 16:24:58",
+      "status": 200,
+      "result": {
+        "download_url": "https://ds2video.com/d/nceus5ief2xw",
+        "protected_embed": "https://ds2video.com/e/t6h0dal7w9h6j0p8uewu6pbs0eq2jgbp",
+        "filecode": "nceus5ief2xw",
+        "embed_url": "https://ds2video.com/e/nceus5ief2xw",
+        "protected_download": "https://ds2video.com/d/lgevwu19xsko1xpmclnloixgm7hcxgat"
+      },
+      "msg": "OK"
+    },
+    {
+      "server_time": "2023-12-24 16:24:58",
+      "result": {
+        "embed_url": "https://ds2video.com/e/3z72jfr2e17b",
+        "protected_embed": "https://ds2video.com/e/26g0x5efl4fv8w6txhu31x3ocxf4jcx8",
+        "download_url": "https://ds2video.com/d/3z72jfr2e17b",
+        "protected_download": "https://ds2video.com/d/n11sfu7tsiqx3me7jdjshyrne0p8at4k",
+        "filecode": "3z72jfr2e17b"
+      },
+      "status": 200,
+      "msg": "OK"
+    }
+  ]
+}

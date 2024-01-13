@@ -1,0 +1,26 @@
+{
+  "folder_creation": {
+    "server_time": "2023-12-24 16:16:50",
+    "result": {
+      "code": "7rxv8pr7hp",
+      "name": "Acel",
+      "fld_id": "1184796"
+    },
+    "msg": "OK",
+    "status": 200
+  },
+  "upload_responses": [
+    {
+      "msg": "OK",
+      "server_time": "2023-12-24 16:16:51",
+      "status": 200,
+      "result": {
+        "protected_download": "https://ds2video.com/d/8s7pf53y3mugcp95h1eoot5cp53l4jj0",
+        "protected_embed": "https://ds2video.com/e/rqkur4vpql0z29k3bd5asb3ovu9re1n5",
+        "embed_url": "https://ds2video.com/e/h100917uhpbe",
+        "filecode": "h100917uhpbe",
+        "download_url": "https://ds2video.com/d/h100917uhpbe"
+      }
+    }
+  ]
+}

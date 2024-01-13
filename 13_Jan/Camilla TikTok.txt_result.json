@@ -1,0 +1,62 @@
+{
+  "folder_creation": {
+    "server_time": "2023-12-24 16:23:43",
+    "status": 200,
+    "msg": "OK",
+    "result": {
+      "name": "Camilla TikTok",
+      "fld_id": "1184834",
+      "code": "dwkp0w0mm7"
+    }
+  },
+  "upload_responses": [
+    {
+      "server_time": "2023-12-24 16:23:44",
+      "result": {
+        "protected_embed": "https://ds2video.com/e/jj1x0nbm8v58nfdmxgari7xbnoevxsq1",
+        "download_url": "https://ds2video.com/d/sieqdx9ozrug",
+        "filecode": "sieqdx9ozrug",
+        "protected_download": "https://ds2video.com/d/cjg8jead3bv6it4a0mi9rwyn6547wfo7",
+        "embed_url": "https://ds2video.com/e/sieqdx9ozrug"
+      },
+      "msg": "OK",
+      "status": 200
+    },
+    {
+      "status": 200,
+      "server_time": "2023-12-24 16:23:45",
+      "result": {
+        "protected_embed": "https://ds2video.com/e/seg4xv6j3ppgtzbpw75oq13bg1c6869x",
+        "filecode": "jaebrgf52de4",
+        "embed_url": "https://ds2video.com/e/jaebrgf52de4",
+        "download_url": "https://ds2video.com/d/jaebrgf52de4",
+        "protected_download": "https://ds2video.com/d/1gg3w37fpsir8w5olvomsarfaqvyamgs"
+      },
+      "msg": "OK"
+    },
+    {
+      "result": {
+        "download_url": "https://ds2video.com/d/3dexetc0r1j5",
+        "embed_url": "https://ds2video.com/e/3dexetc0r1j5",
+        "protected_download": "https://ds2video.com/d/bd412qialu9exmy4jiuafih3bfld5oek",
+        "filecode": "3dexetc0r1j5",
+        "protected_embed": "https://ds2video.com/e/9bsmrgxwklj9ac5ixgsojbyag5wcw742"
+      },
+      "server_time": "2023-12-24 16:23:46",
+      "msg": "OK",
+      "status": 200
+    },
+    {
+      "msg": "OK",
+      "status": 200,
+      "server_time": "2023-12-24 16:23:46",
+      "result": {
+        "protected_embed": "https://ds2video.com/e/cuufqqo83kne1ksk2tjrlz0yyz69le9o",
+        "download_url": "https://ds2video.com/d/z6k3makitjz7",
+        "embed_url": "https://ds2video.com/e/z6k3makitjz7",
+        "filecode": "z6k3makitjz7",
+        "protected_download": "https://ds2video.com/d/ldr0ua75y1s30ksdrnsusxbrdetvvc7m"
+      }
+    }
+  ]
+}

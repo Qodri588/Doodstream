@@ -1,0 +1,158 @@
+{
+  "folder_creation": {
+    "status": 200,
+    "result": {
+      "code": "l4ah2mrbmi",
+      "fld_id": "1184865",
+      "name": "Katana"
+    },
+    "msg": "OK",
+    "server_time": "2023-12-24 16:29:26"
+  },
+  "upload_responses": [
+    {
+      "status": 200,
+      "msg": "OK",
+      "result": {
+        "protected_download": "https://ds2video.com/d/t45hx7xv7sfzmrcgf659q6v4t8or3uyv",
+        "filecode": "x7knzuo8dj5w",
+        "download_url": "https://ds2video.com/d/x7knzuo8dj5w",
+        "embed_url": "https://ds2video.com/e/x7knzuo8dj5w",
+        "protected_embed": "https://ds2video.com/e/z39iwo97zgf0ynwq3sij2ms5bf00vd7t"
+      },
+      "server_time": "2023-12-24 16:29:26"
+    },
+    {
+      "msg": "OK",
+      "status": 200,
+      "server_time": "2023-12-24 16:29:27",
+      "result": {
+        "filecode": "s89e3aq1nm69",
+        "embed_url": "https://ds2video.com/e/s89e3aq1nm69",
+        "download_url": "https://ds2video.com/d/s89e3aq1nm69",
+        "protected_embed": "https://ds2video.com/e/oq0z74ffl5d0fkopsjbftciwvioir6z0",
+        "protected_download": "https://ds2video.com/d/9ff8zibr0pdq6qnf2jtbhejwi7gnh6d5"
+      }
+    },
+    {
+      "result": {
+        "protected_embed": "https://ds2video.com/e/r218sn387nxcs53obgcnvlzlm5i1non6",
+        "protected_download": "https://ds2video.com/d/xpbm76fdiqgwsvf2t0u5i5sj8ktlo6tx",
+        "download_url": "https://ds2video.com/d/8bjyn7opfwr6",
+        "embed_url": "https://ds2video.com/e/8bjyn7opfwr6",
+        "filecode": "8bjyn7opfwr6"
+      },
+      "server_time": "2023-12-24 16:29:27",
+      "msg": "OK",
+      "status": 200
+    },
+    {
+      "server_time": "2023-12-24 16:29:28",
+      "status": 200,
+      "msg": "OK",
+      "result": {
+        "filecode": "1zkwsxz6sxfu",
+        "protected_embed": "https://ds2video.com/e/yamgmdazf573x0j2ikf9msgljpl7a68t",
+        "protected_download": "https://ds2video.com/d/zq2e6sx6dxhvmw95hknwosejtqi70tjj",
+        "download_url": "https://ds2video.com/d/1zkwsxz6sxfu",
+        "embed_url": "https://ds2video.com/e/1zkwsxz6sxfu"
+      }
+    },
+    {
+      "result": {
+        "protected_embed": "https://ds2video.com/e/o297a4hc5fw38agltz6n8m693js81u8a",
+        "embed_url": "https://ds2video.com/e/qy99oajh63jj",
+        "filecode": "qy99oajh63jj",
+        "download_url": "https://ds2video.com/d/qy99oajh63jj",
+        "protected_download": "https://ds2video.com/d/u1mbdydo8vhju3if2i1pcfkzcedcitn1"
+      },
+      "msg": "OK",
+      "status": 200,
+      "server_time": "2023-12-24 16:29:28"
+    },
+    {
+      "result": {
+        "embed_url": "https://ds2video.com/e/p8eerspre6pl",
+        "filecode": "p8eerspre6pl",
+        "download_url": "https://ds2video.com/d/p8eerspre6pl",
+        "protected_embed": "https://ds2video.com/e/b7ibzjuuxqkubgc8ulws90969q8l0w02",
+        "protected_download": "https://ds2video.com/d/q1qkw8pv35uadun6edvbmm7ycchrw19b"
+      },
+      "status": 200,
+      "server_time": "2023-12-24 16:29:28",
+      "msg": "OK"
+    },
+    {
+      "result": {
+        "embed_url": "https://ds2video.com/e/abzixjkbrg68",
+        "filecode": "abzixjkbrg68",
+        "protected_download": "https://ds2video.com/d/if9x9ss07rcw9h5jbvvi78c2u6vh0ilb",
+        "protected_embed": "https://ds2video.com/e/y8lvov0pglxfxlkcdz0jgf6fyobbb1wp",
+        "download_url": "https://ds2video.com/d/abzixjkbrg68"
+      },
+      "status": 200,
+      "msg": "OK",
+      "server_time": "2023-12-24 16:29:29"
+    },
+    {
+      "server_time": "2023-12-24 16:29:29",
+      "result": {
+        "download_url": "https://ds2video.com/d/gwq3fwtlk3ax",
+        "protected_embed": "https://ds2video.com/e/my6d1yhrcgym0lmfm8tpumxa8cgiak7t",
+        "filecode": "gwq3fwtlk3ax",
+        "embed_url": "https://ds2video.com/e/gwq3fwtlk3ax",
+        "protected_download": "https://ds2video.com/d/rqh3pp4pkgeibc3tad2c8c6ma0z6ifpk"
+      },
+      "msg": "OK",
+      "status": 200
+    },
+    {
+      "msg": "OK",
+      "result": {
+        "protected_download": "https://ds2video.com/d/z2zt9y3qsa7r6m0ep923mhy2nx4x0jk2",
+        "protected_embed": "https://ds2video.com/e/9ew50p23s0bvbz23rlpckeqe5kt90txk",
+        "download_url": "https://ds2video.com/d/zz4xmepgurgq",
+        "embed_url": "https://ds2video.com/e/zz4xmepgurgq",
+        "filecode": "zz4xmepgurgq"
+      },
+      "server_time": "2023-12-24 16:29:30",
+      "status": 200
+    },
+    {
+      "status": 200,
+      "result": {
+        "filecode": "fluec7mcxzlb",
+        "protected_embed": "https://ds2video.com/e/7khrygykmoyt28yvouoh419lqt17izh1",
+        "download_url": "https://ds2video.com/d/fluec7mcxzlb",
+        "embed_url": "https://ds2video.com/e/fluec7mcxzlb",
+        "protected_download": "https://ds2video.com/d/ag95oq0tr0i0no9gubzxmgxdftsnkdka"
+      },
+      "server_time": "2023-12-24 16:29:30",
+      "msg": "OK"
+    },
+    {
+      "result": {
+        "protected_embed": "https://ds2video.com/e/oz7409z24bvqaszy4tm5sfu37jbntc1r",
+        "protected_download": "https://ds2video.com/d/kbcbg0dp063pm05rri03s2cwh7tdf12b",
+        "embed_url": "https://ds2video.com/e/acwaidbci4yt",
+        "download_url": "https://ds2video.com/d/acwaidbci4yt",
+        "filecode": "acwaidbci4yt"
+      },
+      "status": 200,
+      "server_time": "2023-12-24 16:29:31",
+      "msg": "OK"
+    },
+    {
+      "result": {
+        "protected_embed": "https://ds2video.com/e/ovg1heq9j1p19y1qg4xoovhu9p7wjshs",
+        "embed_url": "https://ds2video.com/e/ikm0sfsjsm2k",
+        "filecode": "ikm0sfsjsm2k",
+        "download_url": "https://ds2video.com/d/ikm0sfsjsm2k",
+        "protected_download": "https://ds2video.com/d/5m796icsxxcn43ttrxvvpcv0d0yqviph"
+      },
+      "msg": "OK",
+      "status": 200,
+      "server_time": "2023-12-24 16:29:31"
+    }
+  ]
+}

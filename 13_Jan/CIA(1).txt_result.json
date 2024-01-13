@@ -1,0 +1,38 @@
+{
+  "folder_creation": {
+    "status": 200,
+    "msg": "OK",
+    "server_time": "2023-12-26 08:00:14",
+    "result": {
+      "code": "w02zs8xgch",
+      "name": "CIA&#40;1&#41;",
+      "fld_id": "1187044"
+    }
+  },
+  "upload_responses": [
+    {
+      "msg": "OK",
+      "server_time": "2023-12-26 08:00:15",
+      "status": 200,
+      "result": {
+        "download_url": "https://ds2video.com/d/w6j710th1c66",
+        "protected_download": "https://ds2video.com/d/5tm1aocjo80z7v0ho6ghu6axupbqaks5",
+        "embed_url": "https://ds2video.com/e/w6j710th1c66",
+        "protected_embed": "https://ds2video.com/e/f71lj413s9rxnn0z78j4adn86sji3hxn",
+        "filecode": "w6j710th1c66"
+      }
+    },
+    {
+      "server_time": "2023-12-26 08:00:16",
+      "status": 200,
+      "result": {
+        "protected_embed": "https://ds2video.com/e/t2madd4ytw7hvw4l0a85ngv50t7nda7n",
+        "embed_url": "https://ds2video.com/e/qmbc3ia0d2pk",
+        "filecode": "qmbc3ia0d2pk",
+        "download_url": "https://ds2video.com/d/qmbc3ia0d2pk",
+        "protected_download": "https://ds2video.com/d/gebmcibezxwue5e3mi9kebiues79ha5h"
+      },
+      "msg": "OK"
+    }
+  ]
+}

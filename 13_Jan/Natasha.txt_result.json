@@ -1,0 +1,38 @@
+{
+  "folder_creation": {
+    "result": {
+      "code": "l1bgnoivzx",
+      "fld_id": "1184898",
+      "name": "Natasha"
+    },
+    "msg": "OK",
+    "server_time": "2023-12-24 16:32:32",
+    "status": 200
+  },
+  "upload_responses": [
+    {
+      "msg": "OK",
+      "status": 200,
+      "server_time": "2023-12-24 16:32:33",
+      "result": {
+        "protected_download": "https://ds2video.com/d/ecu5vcj4m3drh32lb32zeclbjqgm79cg",
+        "filecode": "d6zdx8gt4c2g",
+        "protected_embed": "https://ds2video.com/e/fc5m6k0t34c2tlur7vsuu1opfpyejb28",
+        "download_url": "https://ds2video.com/d/d6zdx8gt4c2g",
+        "embed_url": "https://ds2video.com/e/d6zdx8gt4c2g"
+      }
+    },
+    {
+      "server_time": "2023-12-24 16:32:33",
+      "result": {
+        "embed_url": "https://ds2video.com/e/tap6boynw8mk",
+        "protected_embed": "https://ds2video.com/e/lb914xwm1b8u2v8w73ix59t4codpb9nj",
+        "protected_download": "https://ds2video.com/d/2imtjaxvvmqhtmxqntzu1rb9twvt8j9i",
+        "filecode": "tap6boynw8mk",
+        "download_url": "https://ds2video.com/d/tap6boynw8mk"
+      },
+      "status": 200,
+      "msg": "OK"
+    }
+  ]
+}

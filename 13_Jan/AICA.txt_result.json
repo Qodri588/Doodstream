@@ -1,0 +1,38 @@
+{
+  "folder_creation": {
+    "server_time": "2023-12-24 16:16:52",
+    "result": {
+      "fld_id": "1184797",
+      "code": "d7yns2xzhz",
+      "name": "AICA"
+    },
+    "status": 200,
+    "msg": "OK"
+  },
+  "upload_responses": [
+    {
+      "result": {
+        "download_url": "https://ds2video.com/d/ozemm6ociekl",
+        "filecode": "ozemm6ociekl",
+        "embed_url": "https://ds2video.com/e/ozemm6ociekl",
+        "protected_embed": "https://ds2video.com/e/5fwadngomawmab2lj7p80f5rt6zqirib",
+        "protected_download": "https://ds2video.com/d/vms81wa5agu3kaczrww7asvy6cs2fne7"
+      },
+      "msg": "OK",
+      "server_time": "2023-12-24 16:16:53",
+      "status": 200
+    },
+    {
+      "msg": "OK",
+      "result": {
+        "protected_embed": "https://ds2video.com/e/amwbzo7ntfuo9eifpsk9o90vntveu68c",
+        "protected_download": "https://ds2video.com/d/gw6w0jqykkncor3aq9ntvj5dibyxtgdv",
+        "embed_url": "https://ds2video.com/e/dgcrrrh96kvq",
+        "filecode": "dgcrrrh96kvq",
+        "download_url": "https://ds2video.com/d/dgcrrrh96kvq"
+      },
+      "status": 200,
+      "server_time": "2023-12-24 16:16:54"
+    }
+  ]
+}

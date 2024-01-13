@@ -1,0 +1,50 @@
+{
+  "folder_creation": {
+    "server_time": "2023-12-26 07:53:55",
+    "msg": "OK",
+    "result": {
+      "fld_id": "1187022",
+      "code": "t2g16itb3m",
+      "name": "Bella cantik"
+    },
+    "status": 200
+  },
+  "upload_responses": [
+    {
+      "status": 200,
+      "msg": "OK",
+      "server_time": "2023-12-26 07:53:56",
+      "result": {
+        "embed_url": "https://ds2video.com/e/m698ktxo60yt",
+        "filecode": "m698ktxo60yt",
+        "protected_embed": "https://ds2video.com/e/tezvuej0hkqfqsau3mixrgy53x93zl4p",
+        "download_url": "https://ds2video.com/d/m698ktxo60yt",
+        "protected_download": "https://ds2video.com/d/deuph8qemnqlbzz1pdqr18jyhgdgr3f7"
+      }
+    },
+    {
+      "msg": "OK",
+      "server_time": "2023-12-26 07:53:56",
+      "result": {
+        "protected_download": "https://ds2video.com/d/nfrn5mqyvko6mnlfxnjiuq3nltshxumt",
+        "filecode": "h3pggnvn9m13",
+        "embed_url": "https://ds2video.com/e/h3pggnvn9m13",
+        "download_url": "https://ds2video.com/d/h3pggnvn9m13",
+        "protected_embed": "https://ds2video.com/e/pvst7pe0qfv91o2vy6wil3qdrq7bja42"
+      },
+      "status": 200
+    },
+    {
+      "server_time": "2023-12-26 07:53:57",
+      "result": {
+        "embed_url": "https://ds2video.com/e/ou2o4s5bd2kr",
+        "protected_embed": "https://ds2video.com/e/ozrxt1ekarvxsszdk16p42hukskuo787",
+        "filecode": "ou2o4s5bd2kr",
+        "protected_download": "https://ds2video.com/d/jqmzik6iade34expecoo9ljqq0s5gkhm",
+        "download_url": "https://ds2video.com/d/ou2o4s5bd2kr"
+      },
+      "status": 200,
+      "msg": "OK"
+    }
+  ]
+}

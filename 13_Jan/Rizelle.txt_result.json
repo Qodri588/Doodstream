@@ -1,0 +1,26 @@
+{
+  "folder_creation": {
+    "server_time": "2023-12-24 16:34:47",
+    "status": 200,
+    "result": {
+      "fld_id": "1184990",
+      "name": "Rizelle",
+      "code": "6m72ga5cfp"
+    },
+    "msg": "OK"
+  },
+  "upload_responses": [
+    {
+      "result": {
+        "protected_embed": "https://ds2video.com/e/tt0jhz4o4tzjiqct3tl6fvdcqe03cora",
+        "download_url": "https://ds2video.com/d/nxcq3bebwojz",
+        "protected_download": "https://ds2video.com/d/cbnedxzatmb1fieccyzhpog6pxo05hrs",
+        "embed_url": "https://ds2video.com/e/nxcq3bebwojz",
+        "filecode": "nxcq3bebwojz"
+      },
+      "msg": "OK",
+      "server_time": "2023-12-24 16:34:48",
+      "status": 200
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "folder_creation": {
+    "server_time": "2023-12-24 16:14:56",
+    "msg": "Folder name already exists",
+    "status": 400
+  },
+  "upload_responses": [
+    {
+      "server_time": "2023-12-24 16:14:57",
+      "msg": "OK",
+      "status": 200,
+      "result": {
+        "filecode": "da8igcbgxydb",
+        "embed_url": "https://ds2video.com/e/da8igcbgxydb",
+        "download_url": "https://ds2video.com/d/da8igcbgxydb",
+        "protected_download": "https://ds2video.com/d/bbnl4it048c20a59booudi1q0evgii7e",
+        "protected_embed": "https://ds2video.com/e/22ayzk4fybh9kq2d9s4upcxnajo4xlbt"
+      }
+    },
+    {
+      "status": 200,
+      "msg": "OK",
+      "result": {
+        "download_url": "https://ds2video.com/d/vv0ua5n82egd",
+        "protected_embed": "https://ds2video.com/e/6lhyjzxxths4mbnugh1bp48xn1bkxptf",
+        "filecode": "vv0ua5n82egd",
+        "embed_url": "https://ds2video.com/e/vv0ua5n82egd",
+        "protected_download": "https://ds2video.com/d/vskrf8ll9uto5ntrl63z6p9mmj42maeh"
+      },
+      "server_time": "2023-12-24 16:14:57"
+    }
+  ]
+}

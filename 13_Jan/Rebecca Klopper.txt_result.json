@@ -1,0 +1,62 @@
+{
+  "folder_creation": {
+    "result": {
+      "fld_id": "1184993",
+      "name": "Rebecca Klopper",
+      "code": "ffjux22vwc"
+    },
+    "msg": "OK",
+    "server_time": "2023-12-24 16:34:59",
+    "status": 200
+  },
+  "upload_responses": [
+    {
+      "result": {
+        "embed_url": "https://ds2video.com/e/frf3c2lj6l9u",
+        "protected_embed": "https://ds2video.com/e/ob01cx50fsock5c9k5iz4demf6z6igyi",
+        "protected_download": "https://ds2video.com/d/vt7aia40ro7q7ul1ctisgr9hfgoys1yg",
+        "download_url": "https://ds2video.com/d/frf3c2lj6l9u",
+        "filecode": "frf3c2lj6l9u"
+      },
+      "status": 200,
+      "server_time": "2023-12-24 16:35:00",
+      "msg": "OK"
+    },
+    {
+      "status": 200,
+      "server_time": "2023-12-24 16:35:00",
+      "msg": "OK",
+      "result": {
+        "filecode": "8f8db20qz4nd",
+        "protected_embed": "https://ds2video.com/e/gptke7j3w64vw9o0m6vtfpfsoy9v6eq2",
+        "download_url": "https://ds2video.com/d/8f8db20qz4nd",
+        "embed_url": "https://ds2video.com/e/8f8db20qz4nd",
+        "protected_download": "https://ds2video.com/d/2em0t59dbi9e7z31obsnzgnpycgk350z"
+      }
+    },
+    {
+      "status": 200,
+      "server_time": "2023-12-24 16:35:01",
+      "msg": "OK",
+      "result": {
+        "filecode": "e8y6xlg3lz84",
+        "embed_url": "https://ds2video.com/e/e8y6xlg3lz84",
+        "protected_embed": "https://ds2video.com/e/dvmv911zb4qmyf3p3x3kvpml8v1eptep",
+        "protected_download": "https://ds2video.com/d/8mhhcedp3docbvlgc5t9k4y6kjpi7q5u",
+        "download_url": "https://ds2video.com/d/e8y6xlg3lz84"
+      }
+    },
+    {
+      "msg": "OK",
+      "status": 200,
+      "server_time": "2023-12-24 16:35:01",
+      "result": {
+        "filecode": "yw5zw6o6451y",
+        "protected_download": "https://ds2video.com/d/pjfcw60s36o042yjgsfz9h98u67rkstg",
+        "protected_embed": "https://ds2video.com/e/4960fgbxefcnz0mp0zafrlm4f4t1c7m7",
+        "embed_url": "https://ds2video.com/e/yw5zw6o6451y",
+        "download_url": "https://ds2video.com/d/yw5zw6o6451y"
+      }
+    }
+  ]
+}

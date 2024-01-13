@@ -1,0 +1,26 @@
+{
+  "folder_creation": {
+    "status": 200,
+    "result": {
+      "code": "q8ogk2d0yc",
+      "name": "Alika",
+      "fld_id": "1184798"
+    },
+    "msg": "OK",
+    "server_time": "2023-12-24 16:16:54"
+  },
+  "upload_responses": [
+    {
+      "result": {
+        "embed_url": "https://ds2video.com/e/3nd3ykgcyhkd",
+        "download_url": "https://ds2video.com/d/3nd3ykgcyhkd",
+        "protected_embed": "https://ds2video.com/e/ljnrznixua8a8j40gh7q4n2l3kr4tn5m",
+        "protected_download": "https://ds2video.com/d/fnt3to9dxzb58munatlrzkt6t30ekvwq",
+        "filecode": "3nd3ykgcyhkd"
+      },
+      "server_time": "2023-12-24 16:16:55",
+      "msg": "OK",
+      "status": 200
+    }
+  ]
+}
